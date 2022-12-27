@@ -45,6 +45,9 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
+## Video Demonstration
+
+https://drive.google.com/file/d/1acQm5rrBbIG2IjQe4cdKNnSVkOBpKXQg/view
 
 ## Screenshot
 
